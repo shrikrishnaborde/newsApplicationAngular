@@ -1,6 +1,7 @@
 .flex-container {
     display: flex;
     width: 50%;
+    border-radius: 25px;
     flex-direction: column;
     background-color: DodgerBlue;
   }
@@ -10,4 +11,10 @@
     margin: 10px;
     padding: 20px;
     font-size: 30px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+  }
+
+  a{
+      font-size: medium;
   }
