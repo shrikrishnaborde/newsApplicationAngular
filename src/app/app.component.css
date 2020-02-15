@@ -6,7 +6,7 @@
     background-color: DodgerBlue;
   }
   
-  .flex-container > p {
+  .flex-container > div {
     background-color: #f1f1f1;
     margin: 10px;
     padding: 20px;
@@ -16,5 +16,9 @@
   }
 
   a{
-      font-size: medium;
+      font-size: large;
+  }
+
+  p{
+      font-size: small;
   }

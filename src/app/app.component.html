@@ -1,5 +1,6 @@
 <div class="flex-container">
-    <p *ngFor="let article of articles" (click)="clickedOnArticle(article)">
+    <div *ngFor="let article of articles" (click)="clickedOnArticle(article)">
         <a href='#'>{{article.title}}</a> 
-    </p>
+        <p>{{article.description}}</p>
+    </div>
 </div>
