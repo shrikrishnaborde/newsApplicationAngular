@@ -16,10 +16,7 @@ export class AppComponent implements OnInit{
   ngOnInit(): void {
     this.newsService.getJson().subscribe(data => {
       this.news = data;
-      this.newsService.postNews(this.news).subscribe(data1 => {
-        console.log(data1);
-      });
-      //console.log(this.news);
+      console.log(this.news);
     });
   }
   
