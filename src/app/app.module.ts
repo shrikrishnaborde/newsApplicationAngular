@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
+import { NewsdisplayComponent } from './newsdisplay/newsdisplay.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NewsdisplayComponent
   ],
   imports: [
     BrowserModule,
