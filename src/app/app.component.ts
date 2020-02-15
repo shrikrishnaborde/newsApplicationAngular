@@ -11,13 +11,18 @@ import { NewsDataService } from './services/news/news-data.service';
 export class AppComponent implements OnInit{
   
   news:any;
+  articles:any;
   constructor(private http:HttpClient,private newsService:NewsDataService){}
 
   ngOnInit(): void {
     this.newsService.getJson().subscribe(data => {
       this.news = data;
-      console.log(this.news);
+      this.articles=this.news.articles;
     });
+  }
+
+  clickedOnArticle(article:any){
+    window.location.href = article.url;
   }
   
   title = 'news-app';
