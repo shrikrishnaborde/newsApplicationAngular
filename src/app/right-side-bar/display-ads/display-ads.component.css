@@ -1,0 +1,9 @@
+li{
+    height: 200px;
+    display: block;
+    margin: 10px;
+    width: 270px;
+    background-color: rgb(68, 90, 214);
+    border-radius: 10px;
+    border: 1px solid black;
+}

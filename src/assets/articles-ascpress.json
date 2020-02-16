@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "associated-press",
+    "sortBy": "top",
+    "articles": [
+        {
+            "author": "KEN MORITSUGU",
+            "title": "Fall in new cases raises hope in virus outbreak in China",
+            "description": "BEIJING (AP) — The number of new cases of the coronavirus in China dropped for a second straight day, health officials said Wednesday in a possible glimmer of hope amid the outbreak that has...",
+            "url": "https://apnews.com/22857c9d3f31d3cea98bd793611e71aa",
+            "urlToImage": "",
+            "publishedAt": "2020-02-12T02:39:32Z"
+        },
+        {
+            "author": "NICOLE WINFIELD",
+            "title": "Pope avoids question of married priests in Amazon document",
+            "description": "VATICAN CITY (AP) — Pope Francis refused Wednesday to approve the ordination of married men or women as deacons to address a shortage of priests in the Amazon, sidestepping a fraught issue that...",
+            "url": "https://apnews.com/c7f3dd10f458cb02fa9fa725c096d7db",
+            "urlToImage": "",
+            "publishedAt": "2020-02-12T11:03:58Z"
+        },
+        {
+            "author": "ALEXANDRA JAFFE",
+            "title": "Deval Patrick, last black candidate in 2020 race, drops out",
+            "description": "WASHINGTON (AP) — Former Massachusetts Gov. Deval Patrick, the last remaining African American candidate in a Democratic presidential field once defined by its diversity, ended his 2020 campaign...",
+            "url": "https://apnews.com/bb7101d62ff0a8918d3e25de65aa567a",
+            "urlToImage": "",
+            "publishedAt": "2020-02-12T17:13:33Z"
+        },
+        {
+            "author": "The Associated Press",
+            "title": "AP PHOTOS: A look at New York Fashion Week on the street",
+            "description": "NEW YORK (AP) — From a 6-year-old Instagram influencer, Taylen Biggs, to a legend in the industry, Vogue's former editor-at-large Andre Leon Talley, New York Fashion Week is just as much fun on...",
+            "url": "https://apnews.com/550ca05695367eb5bc48b25921449263",
+            "urlToImage": "",
+            "publishedAt": "2020-02-12T23:52:12Z"
+        },
+        {
+            "author": "AAMER MADHANI, JONATHAN LEMIRE and MARY CLARE JALONICK",
+            "title": "With impeachment over, critics see Trump 'retribution tour'",
+            "description": "WASHINGTON (AP) — In the week since his acquittal on impeachment charges, a fully emboldened President Donald Trump is demonstrating his determination to assert an iron grip on government, pushing...",
+            "url": "https://apnews.com/e613b755f0750a1df4127f054561d7d6",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5ce080d76b8046e989d547cbc6b5f393/3000.jpeg",
+            "publishedAt": "2020-02-13T00:00:31Z"
+        },
+        {
+            "author": "NICHOLAS RICCARDI and ALAN FRAM",
+            "title": "Some Democrats fear fallout from Sanders atop the ticket",
+            "description": "DENVER (AP) — Sen. Bernie Sanders' robust start in the race for the presidential nomination is triggering alarm among congressional Democrats, with many warning that a ticket headed by the...",
+            "url": "https://apnews.com/ee0b0675aacf75270f24126e69378902",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a49eee35e73d481784768739783dee31/3000.jpeg",
+            "publishedAt": "2020-02-12T23:51:15Z"
+        },
+        {
+            "author": "DANICA COTO",
+            "title": "Official: Puerto Rico govt loses $2.6M in phishing scam",
+            "description": "SAN JUAN, Puerto Rico (AP) — Puerto Rico's government has lost more than $2.6 million after falling for an email phishing scam, according to a senior official.The finance director of the...",
+            "url": "https://apnews.com/e03bea7e491b9c95350887880376562f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/603ae5af32ec49a2b91b4a4b9754a7eb/3000.jpeg",
+            "publishedAt": "2020-02-13T00:03:43Z"
+        },
+        {
+            "author": "TAMMY WEBBER",
+            "title": "Jussie Smollett's image takes new hit with revived charges",
+            "description": "CHICAGO (AP) — He's stopped posting to his Twitter account, his last Instagram post was eight months ago, and his acting and singing careers appear to be at a standstill.Former “Empire”...",
+            "url": "https://apnews.com/707c892045e5025da16b2a01d6b96d27",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/945a1b01ed5c4721b5488914180c3b09/2184.jpeg",
+            "publishedAt": "2020-02-12T22:38:36Z"
+        },
+        {
+            "author": "MARY CLARE JALONICK",
+            "title": "Barr agrees to testify as Democrats question his leadership",
+            "description": "WASHINGTON (AP) — Attorney General William Barr has agreed to testify before the House Judiciary Committee next month, appearing for the first time before the panel as questions swirl about...",
+            "url": "https://apnews.com/027cb88523c183e8b05848be838b1354",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fb282baf64aa4a228590254bd79ef303/3000.jpeg",
+            "publishedAt": "2020-02-12T21:45:40Z"
+        },
+        {
+            "author": null,
+            "title": "Police still searching for missing South Carolina girl, 6",
+            "description": "CAYCE, S.C. (AP) — Hundreds of police officers continued to look Wednesday for a 6-year-old girl who hasn't been seen since shortly after getting off her school bus near her South Carolina home...",
+            "url": "https://apnews.com/360daa917e674fdfd27c2b8564326c94",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/985ba7d3e7ac448d9e5cced51921a02e/2000.jpeg",
+            "publishedAt": "2020-02-12T18:46:49Z"
+        }
+    ]
+}
