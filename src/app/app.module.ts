@@ -9,6 +9,8 @@ import { AngularFontAwesomeModule } from 'angular-font-awesome';
 import { HeaderComponent } from './header/header.component';
 import { LeftSideBarComponent } from './left-side-bar/left-side-bar.component';
 import { RightSideBarComponent } from './right-side-bar/right-side-bar.component';
+import { SectionsComponent } from './left-side-bar/sections/sections.component';
+import { SectionComponent } from './left-side-bar/sections/section/section.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { RightSideBarComponent } from './right-side-bar/right-side-bar.component
     NewsdisplayComponent,
     HeaderComponent,
     LeftSideBarComponent,
-    RightSideBarComponent
+    RightSideBarComponent,
+    SectionsComponent,
+    SectionComponent
   ],
   imports: [
     BrowserModule,
