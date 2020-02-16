@@ -11,6 +11,8 @@ import { LeftSideBarComponent } from './left-side-bar/left-side-bar.component';
 import { RightSideBarComponent } from './right-side-bar/right-side-bar.component';
 import { SectionsComponent } from './left-side-bar/sections/sections.component';
 import { SectionComponent } from './left-side-bar/sections/section/section.component';
+import { DisplayAdsComponent } from './right-side-bar/display-ads/display-ads.component';
+import { AdComponent } from './right-side-bar/display-ads/ad/ad.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { SectionComponent } from './left-side-bar/sections/section/section.compo
     LeftSideBarComponent,
     RightSideBarComponent,
     SectionsComponent,
-    SectionComponent
+    SectionComponent,
+    DisplayAdsComponent,
+    AdComponent
   ],
   imports: [
     BrowserModule,
