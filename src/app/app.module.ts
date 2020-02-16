@@ -7,12 +7,16 @@ import { HttpClientModule } from '@angular/common/http';
 import { NewsdisplayComponent } from './newsdisplay/newsdisplay.component';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
 import { HeaderComponent } from './header/header.component';
+import { LeftSideBarComponent } from './left-side-bar/left-side-bar.component';
+import { RightSideBarComponent } from './right-side-bar/right-side-bar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NewsdisplayComponent,
-    HeaderComponent
+    HeaderComponent,
+    LeftSideBarComponent,
+    RightSideBarComponent
   ],
   imports: [
     BrowserModule,
