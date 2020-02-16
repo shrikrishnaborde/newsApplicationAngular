@@ -12,7 +12,8 @@
     padding: 20px;
     font-size: 30px;
     border-radius: 25px;
-    border: 2px solid #73AD21;
+    border: 2px solid rgb(176, 240, 86);
+    box-shadow: 5px 5px 5px rgb(86, 240, 168);
   }
 
   .news-title{
@@ -22,7 +23,8 @@
   .news-head{
       position: relative;
       display: inline-block;
-      height: 65px;;
+      height: 65px;
+      cursor: pointer;
   }
 
   .news-head a{

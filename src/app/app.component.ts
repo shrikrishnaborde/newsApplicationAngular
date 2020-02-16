@@ -1,7 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { NewsDataService } from './services/news/news-data.service';
-
 
 @Component({
   selector: 'app-root',
@@ -10,20 +7,14 @@ import { NewsDataService } from './services/news/news-data.service';
 })
 export class AppComponent implements OnInit{
   
-  news:any;
-  articles:any;
-  constructor(private http:HttpClient,private newsService:NewsDataService){}
+  constructor(){}
 
   ngOnInit(): void {
-    this.newsService.getJson().subscribe(data => {
-      this.news = data;
-      this.articles=this.news.articles;
-    });
   }
 
-  clickedOnArticle(article:any){
-    window.location.href = article.url;
+  refresh(){
+    window.location.reload();
   }
-  
+
   title = 'news-app';
 }

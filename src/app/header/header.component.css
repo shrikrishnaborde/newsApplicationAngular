@@ -1,0 +1,22 @@
+.news-search{
+    margin-left: 100px;
+  }
+  
+  .news-search input{
+    width: 800px;
+  }
+  
+  .user-account{
+    margin-left: 130px;
+  }
+  
+  .user-account button{
+    border-radius: 50%;
+  }
+  
+  .page-header{
+    box-shadow: 5px 5px 5px rgb(184, 151, 151);
+    background-color: transparent;
+    margin-bottom: 10px;
+  }
+  
